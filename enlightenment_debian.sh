@@ -71,3 +71,5 @@ EOF
         echo -e "\nCheck ~/.xsession-errors for more details"
     fi
 }
+
+install_enlightenment_debian
