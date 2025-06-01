@@ -1,3 +1,5 @@
+#!/bin/bash
+
 install_enlightenment_debian() {
     # Update system
     echo -e "\033[1;34m[1/7] Updating system packages...\033[0m"
